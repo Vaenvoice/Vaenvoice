@@ -1,5 +1,5 @@
 # 💫 About Me:
-    • 🔭 Currently building an FC-Barcelona performance analysis dashboard<br>	
+    •   🔭 Currently building an FC-Barcelona performance analysis dashboard<br>	
     •	🧠 Exploring Machine Learning, AI, Deep Learning, and Recommendation Systems<br>	
     •	💻 Strong foundation in Java, Python, DSA, and SQL<br>	
     •	📊 Interested in Data-driven products and scalable architectures<br>	
